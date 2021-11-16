@@ -26,7 +26,7 @@ public class Programa {
                System.out.println("6 - Relatório de livros com devolução em aberto ");
                System.out.println("7 - Relatório de livros alugados por período ");
                System.out.println("0 - Sair \n");
-               System.out.println("Digite a sua opção: ")
+               System.out.println("Digite a sua opção: ");
                opcao = sc.nextInt();
                sc.nextLine();
 
